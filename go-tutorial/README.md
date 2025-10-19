@@ -1,0 +1,1 @@
+https://go-tour-jp.appspot.com/ に沿って進めました
