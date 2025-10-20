@@ -1,6 +1,6 @@
 package main
 
-// factoredインポートステートメント( factored import statement )
+// factoredインポートステートメント(factored import statement)
 import (
 	"fmt"
 	"math"
