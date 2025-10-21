@@ -7,5 +7,5 @@ import (
 
 // 円周率を出力
 func main() {
-    fmt.Println(math.Pi) // 3.141592653589793
+	fmt.Println(math.Pi) // 3.141592653589793
 }

@@ -1,0 +1,23 @@
+root = true
+
+# 共通設定
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Go
+[*.go]
+indent_style = tab
+indent_size = 4
+
+# Rust
+[*.rs]
+indent_style = space
+indent_size = 4
+
+# TypeScript / JavaScript / JSON
+[*.{ts,tsx,js,jsx,json}]
+indent_style = space
+indent_size = 2
